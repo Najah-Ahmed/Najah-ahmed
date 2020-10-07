@@ -2,7 +2,26 @@
 #### Design  Developer & DevOps 
 Working my DevOps carries still learning 
 
+
+
 ---
+<p align="center">
+  <a href="https://github.com/najah-ahmed?tab=followers">
+    <img src="https://img.shields.io/github/followers/najah-ahmed?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/najaah4434">
+    <img src="https://img.shields.io/twitter/follow/najaah4434?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+<!--   <a href="https://discord.com/invite/jZQs6Wu">
+    <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
+  </a> -->
+<!--   <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a> -->
+</p>
+
+
+
 
 
 ## Skills and Experience
