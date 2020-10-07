@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love studing and playing fifa mobile 🤣🤣🤣
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=najah-ahmed)](https://github.com/najah-ahmed/github-readme-stats)
