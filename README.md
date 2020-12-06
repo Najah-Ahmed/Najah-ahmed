@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Najah Said Ahmed
 #### Design  Developer & DevOps 
-Working my DevOps carries still learning 
+Working my DevOps career still learning 👊👊👊👊
 
 
 
