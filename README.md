@@ -12,7 +12,7 @@ Working my DevOps career still learning 👊👊👊👊
   <a href="http://twitter.com/najaah4434">
     <img src="https://img.shields.io/twitter/follow/najaah4434?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-<!--   <a href="https://discord.com/invite/jZQs6Wu">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=najah-ahmed" align="center" width="40%"/> <a href="https://discord.com/invite/jZQs6Wu">
     <img src="https://img.shields.io/discord/699608417039286293?logo=discord&style=for-the-badge" />
   </a> -->
 <!--   <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
@@ -32,6 +32,7 @@ Working my DevOps career still learning 👊👊👊👊
 ---
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Najah-Ahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/najah-ahmed-3a74b5192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/najaah4434)   
-___
+
+
 
 ![Najah Said's github stats](https://github-readme-stats.vercel.app/api?username=najah-ahmed&show_icons=true&theme=dracula)
