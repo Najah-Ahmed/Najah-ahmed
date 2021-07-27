@@ -9,7 +9,7 @@ Working my DevOps career still learning 👊👊👊👊
   <a href="https://github.com/najah-ahmed?tab=followers">
     <img src="https://img.shields.io/github/followers/najah-ahmed?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/najaah4434">
+  <a href="http://twitter.com/najjahsaid">
     <img src="https://img.shields.io/twitter/follow/najaah4434?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=najah-ahmed" align="center" width="40%"/> <a href="https://discord.com/invite/jZQs6Wu">
