@@ -8,7 +8,7 @@ Working my DevOps and Cloud career still learning 👊👊👊👊
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najah-said-ahmed/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najahsaid.pro@gmail.com)
 [![MY Web Page](https://img.shields.io/badge/Najaaah-black?style=for-the-badge&logo=www&logoColor=white)](https://dev.page/najah_said)
-
+[![Cleverxdev](https://img.shields.io/badge/Cleverxdev-fbc108?style=for-the-badge&logo=www&logoColor=blue)](https://cleverx.dev)
 
 
 
